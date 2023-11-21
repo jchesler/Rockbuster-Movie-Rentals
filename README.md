@@ -19,6 +19,6 @@ For this project I will be using data containng information on the following:
 - PostgreSQL
 - Db Visualizer
 - Tableau
-- [Tableau Link](https://public.tableau.com/app/profile/jacob.chesler/viz/EX3_10final/Dashboard2?publish=yes)
+- Visualizations and charts can be seen [here](https://public.tableau.com/app/profile/jacob.chesler/viz/EX3_10final/Dashboard2?publish=yes)
 
 
